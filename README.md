@@ -1,6 +1,8 @@
 # PacMan---customized-levels
 Traditional Pac-Man game with customized levels.
 courtsey: youtube tutorials!
+
+src: contains sprites and level maps
  
 Description :  It is a replica of Pac-Man, a maze arcade game developed and released by Namco in 1980 wherein the user controls PacMan, who must eat all the dots inside an enclosed maze while avoiding ghosts which randomly chase PacMan. 
  
